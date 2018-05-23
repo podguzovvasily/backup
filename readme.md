@@ -17,8 +17,7 @@ QUICK START
 
 After making waypaths and log name changes run backup.cmd with administartive privilegies. That`s it.
 Robocopy will crerate mirrored backup and log file.
-Please, attend! Robocopy will delete files in your backup, which were deleted from source destination. For cumulative robocopy backups use
-script from cumulative branch. In this case robocopy will not delete files in your backup, which were deleted in source destination.
+Please, attend! Robocopy will delete files in your backup, which were deleted from source destination. For cumulative robocopy backups, please use script from cumulative branch. In this case robocopy will not delete files in your backup, which were deleted in source destination.
 
 WHAT's NEXT
 -----------
