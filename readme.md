@@ -22,6 +22,9 @@ Please, attend! Robocopy will delete files in your backup, which were deleted fr
 WHAT's NEXT
 -----------
 
-Please visit http://www.cyberforum.ru/cmd-bat/thread792016.html for more information about parametres and GUI.
+Please visit:
+
+https://social.technet.microsoft.com/wiki/contents/articles/1073.robocopy-and-a-few-examples.aspx
+http://www.cyberforum.ru/cmd-bat/thread792016.html for more information about parametres and GUI.
 
 
