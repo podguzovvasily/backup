@@ -4,7 +4,7 @@ Script that creates mirrored backup from remote source, using Microsoft ROBOCOPY
 INSTALLATION
 ------------
 
-Just copy backup.cmd to your Windows PC, change waypaths and log name via text editor. 
+Just copy backup.cmd t your Windows PC, change waypaths and log name via text editor. 
 
 REQUIREMENTS
 ------------
